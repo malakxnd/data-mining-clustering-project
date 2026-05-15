@@ -123,7 +123,7 @@ pip install numpy pandas scikit-learn matplotlib
 |---|---|
 | 20236076 | Data preprocessing & Hopkins statistic |
 | 20237003 | Optimal K selection (Elbow, Silhouette) |
-| 20237015 | Clustering implementation & visualization | => my role
+| 20237015 | Clustering implementation & visualization |
 | 20237020 | Evaluation metrics & comparative analysis |
 
 ---
